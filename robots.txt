@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-be425a5ba2.xichangai.cn/sitemap.xml

@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "e796cd2f5cdf173e6ab37fcb",
+  "owner": "sftdtmr",
+  "repo": "page-bafbd0f9f1cc5f2dcbce47fa",
+  "title": "火箭加速器",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "bafbd0f9f1cc5f2dcbce47fa",
+      "a": "火箭加速器",
+      "b": "",
+      "entity": "火箭加速器",
+      "brand": "火箭加速器",
+      "separator": "",
+      "path": "index.html",
+      "hash": "049de4ee2b57e563ed04876ac4853295e53c8ddb33e055dcc123e9f348713129",
+      "content": {
+        "keyword1": "火箭加速器",
+        "keyword2": "",
+        "primary_entity": "火箭加速器",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "火箭加速器提供专业VPN梯子网络加速与机场订阅服务，支持多平台官方客户端下载，套餐含基础版至团队版，助力流媒体解锁与游戏加速。",
+          "AI_DESCRIPTION": "火箭加速器提供专业VPN梯子网络加速与机场订阅服务，支持多平台官方客户端下载，套餐含基础版至团队版，助力流媒体解锁与游戏加速。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box;margin:0;padding:0}body{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif;background:#f3f4f6;color:#1f2937;font-size:16px;line-height:1.65}a{color:#6d28d9;text-decoration:none}header{background:#5b21b6;color:#fff;padding:20px 12px;text-align:center}header h1{font-size:1.75rem}header p{font-size:0.9rem;margin-top:6px;opacity:.92}nav{background:#4c1d95;padding:10px 8px;text-align:center}nav a{color:#e9d5ff;margin:0 7px;font-size:.875rem;display:inline-block}main{max-width:920px;margin:0 auto;padding:0 12px 24px}section{background:#fff;margin:14px 0;padding:18px 16px;border-radius:10px;box-shadow:0 1px 4px rgba(91,33,182,.08)}h2{font-size:1.35rem;color:#5b21b6;margin-bottom:12px;padding-bottom:6px;border-bottom:2px solid #ddd6fe}h3{font-size:1.1rem;color:#6d28d9;margin:14px 0 6px}p,li{margin-bottom:8px}.plans{display:flex;flex-wrap:wrap;gap:14px;justify-content:center;margin-top:10px}.card{flex:1 1 250px;max-width:300px;border:1px solid #e5e7eb;border-radius:10px;padding:16px;background:#fafafa}.card.rec{border:2px solid #7c3aed;background:#f5f3ff}.mark{display:inline-block;background:#7c3aed;color:#fff;font-size:.75rem;padding:2px 8px;border-radius:10px;margin-bottom:6px}.price{font-size:1.55rem;font-weight:700;color:#5b21b6;margin:6px 0 2px}.annual{font-size:.85rem;color:#6b7280}ul.feat{list-style:none;padding:0;margin-top:10px}ul.feat li{padding:4px 0 4px 16px;position:relative}ul.feat li:before{content:\"·\";color:#7c3aed;position:absolute;left:0;font-weight:700}details{background:#f9fafb;border:1px solid #e5e7eb;border-radius:8px;margin:8px 0;padding:10px 14px}summary{font-weight:600;color:#4c1d95}details p{margin-top:8px;color:#374151;font-size:.95rem}.ad{background:#ede9fe;padding:12px;border-radius:8px;margin-top:12px;text-align:center;color:#5b21b6;font-size:.9rem}footer{background:#1f2937;color:#d1d5db;padding:20px 12px;margin-top:8px;font-size:.875rem;text-align:center}footer a{color:#c4b5fd}footer .row{margin:10px 0}@media(max-width:600px){header h1{font-size:1.5rem}nav a{margin:4px 5px;font-size:.8rem}.card{flex:1 1 100%;max-width:none}}</style><header><h1>火箭加速器</h1><p>官方网站 · 高速机场订阅与 VPN 客户端下载</p></header><nav><a href=\"#intro\">品牌简介</a><a href=\"#plans\">套餐对比</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">操作说明</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a></nav><main><section id=\"intro\"><h2>品牌简介</h2><p>火箭加速器是面向个人与团队的专业网络加速与机场服务。我们自建高品质节点，结合 IPLC 国际专线与智能分流，为跨境访问提供更低延迟和更稳定带宽。无论是 4K 流媒体、在线对战还是远程协作，都可按需选择节点与规则。</p><p>服务以机场订阅为核心：开通套餐后即可获取通用订阅及分客户端链接，兼容 Clash、Surge、Quantumult、Shadowrocket、sing-box 等主流工具。官方同时提供多端客户端指引，降低上手门槛。套餐按月或按年计费，年付更优惠，流量按月重置，设备数按档位限制，便于家庭与小团队共享。</p></section><section id=\"plans\"><h2>套餐对比</h2><p>以下三档覆盖轻度浏览到团队高并发需求。旗舰版在流媒体解锁与游戏线路上更完整，适合大多数用户；团队版面向多设备与定制路由。开通后即可在用户中心复制订阅并下载客户端。</p><div class=\"plans\"><div class=\"card\"><h3>基础版</h3><div class=\"price\">¥15/月</div><div class=\"annual\">按年付仅需 ¥150/年</div><ul class=\"feat\"><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></div><div class=\"card rec\"><span class=\"mark\">推荐</span><h3>旗舰版</h3><div class=\"price\">¥35/月</div><div class=\"annual\">按年付仅需 ¥350/年</div><ul class=\"feat\"><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></div><div class=\"card\"><h3>团队版</h3><div class=\"price\">¥85/月</div><div class=\"annual\">按年付仅需 ¥850/年</div><ul class=\"feat\"><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></div></div><p>节点覆盖香港、日本、新加坡、台湾、美国与欧洲等常用区域，旗舰及以上强调原生 IP 与专线质量。具体可用线路以用户中心实时列表为准。</p></section><section id=\"scenes\"><h2>使用场景</h2><h3>海外流媒体</h3><p>旗舰版全节点针对 Netflix、Disney+、YouTube、Spotify 等做原生解锁维护，适合晚间高峰观看。基础版覆盖部分平台，适合轻度需求。</p><h3>游戏与下载加速</h3><p>IPLC 与优化线路可降低 Valorant、外服对战、原神国际服以及 Steam 资源下载的延迟与丢包。团队版高带宽更适合多人同时在线。</p><h3>办公、开发与资料访问</h3><p>稳定访问代码托管、文档协作、国际会议与学术检索。规则分流可让国内站点直连，减少不必要绕行。</p><h3>出行与多设备</h3><p>同一订阅可在电脑、手机和平板导入。出差时切换附近节点即可，注意遵守各套餐设备上限以免影响速度。</p></section><section id=\"guide\"><h2>操作说明</h2><h3>开通与获取订阅</h3><p>对比套餐并完成订阅后，登录官网用户中心即可看到通用订阅链接以及 Clash、Quantumult、Shadowrocket 等专用格式。请妥善保存，勿公开传播。</p><h3>安装客户端</h3><p>Windows 与 macOS 推荐 Clash Meta 内核客户端；Android 使用 Clash Meta；iOS 需通过相应商店获取 Shadowrocket 或同类工具。路由器与 Linux 可使用兼容 sing-box 或 Clash 的方案。</p><h3>导入并连接</h3><p>在客户端订阅栏粘贴链接并更新节点列表，按延迟或解锁需求选择香港、日本或新加坡等起步节点。可开启规则模式：国内直连、境外代理。首次使用建议分别测试网页、视频与游戏。</p><h3>日常维护</h3><p>建议开启订阅自动更新。若某节点异常，切换备用线路即可。旗舰与团队用户可通过工单获得优先处理。流量与设备数在用户中心可查。</p></section><section id=\"download\"><h2>官方客户端下载</h2><p>火箭加速器不绑定单一闭源客户端，而是提供机场订阅 + 主流开源/常用客户端的组合，便于您按系统选择。请仅通过本站或用户中心获取安装指引，避免来路不明的安装包。</p><p><a href=\"#\">Windows 客户端通道</a> · <a href=\"#\">macOS 客户端通道</a> · <a href=\"#\">Android 安装包指引</a> · <a href=\"#\">iOS 导入说明</a> · <a href=\"#\">Linux / 软路由</a></p><p>导入后请立即更新订阅。我们会不定期优化协议与分流规则，以提升解锁率与连接成功率。下载与订阅地址以登录后的用户中心显示为准。</p><div class=\"ad\">合作展示位：云主机与域名服务咨询请通过页脚广告合作入口联系。本页为火箭加速器官网信息与下载指引。</div></section><section id=\"faq\"><h2>常见问题</h2><details><summary>火箭加速器是机场还是传统 VPN？如何选客户端？</summary><p>火箭加速器以机场订阅为主：一次订阅可更新整池节点，并配合 Clash、Surge、Shadowrocket、sing-box 等客户端做规则分流。这比单一入口的传统 VPN 更灵活，也更适合流媒体与游戏场景。按您的系统在下载区选择对应客户端即可。</p></details><details><summary>如何确认下载来源并完成第一次连接？</summary><p>请认准本站与用户中心提供的客户端通道。安装后粘贴订阅 URL，更新节点，选择延迟较低的线路，开启系统代理或 TUN。建议先访问常用网站与一部影片确认解锁，再用于游戏。</p></details><details><summary>各套餐流量、设备数和年付如何计算？</summary><p>基础版每月 100GB、3 台设备；旗舰版 300GB、5 台；团队版 1000GB、20 台。流量按自然月重置。年付为基础月价的十个月量，到期可在用户中心续费。超出设备数可能影响速率，请按实际终端数量选择档位。</p></details><details><summary>流媒体和游戏加速分别依赖哪些能力？</summary><p>流媒体依赖原生 IP 与定期维护，旗舰版覆盖更全。游戏更看重 IPLC 与低丢包线路，旗舰版已包含游戏优化，团队版另有高带宽 VIP 节点。若某平台临时失效，切换同区域其他节点或等待维护即可。</p></details><details><summary>连接失败或延迟突然变高时怎么处理？</summary><p>先更换节点与协议（如 Hysteria2 或 VLESS），检查本地网络与系统时间。关闭冲突代理软件后重试。持续异常时提交工单，旗舰版享有 7x24 优先支持。同时确认订阅未过期、流量未用尽。</p></details><details><summary>团队或家庭如何共享？能否定制路由？</summary><p>同一订阅可多端导入，只要不超过套餐设备上限。家庭常用旗舰版；公司或多工作室可选团队版，并申请企业定制路由与专属客户经理。请勿把订阅发布到公开渠道。</p></details></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><p>© 火箭加速器 官方网站</p><div class=\"row\">友情链接：<a href=\"#\">节点状态</a> · <a href=\"#\">Clash 教程</a> · <a href=\"#\">解锁检测</a> · <a href=\"#\">订阅格式说明</a></div><div class=\"row\"><a href=\"#intro\">简介</a> · <a href=\"#plans\">套餐</a> · <a href=\"#download\">下载</a> · <a href=\"#faq\">FAQ</a> · <a href=\"#\">网站地图</a> · <a href=\"#\">广告合作</a></div><p>本页介绍火箭加速器 VPN 梯子网络加速、机场订阅与客户端下载，请遵守所在地法律法规合理使用。</p></footer>",
+          "hash": "27424b75bf65ba8e4087c3a3f72f4a262a5eb5f5263f79b139fa4bd5ce72d32c",
+          "seo": {
+            "title": "火箭加速器官方网站 | VPN梯子网络加速与机场客户端下载",
+            "keywords": "火箭加速器,火箭加速器官网,VPN梯子,网络加速器,机场订阅,客户端下载,火箭加速器下载,IPLC加速,流媒体解锁",
+            "description": "火箭加速器提供专业VPN梯子网络加速与机场订阅服务，支持多平台官方客户端下载，套餐含基础版至团队版，助力流媒体解锁与游戏加速。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xichangai.cn",
+    "host": "p-be425a5ba2.xichangai.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "xichangai.cn",
+      "url": "https://xichangai.cn/",
+      "label": "闪电(⚡️)",
+      "apex": "xichangai.cn",
+      "kind": null,
+      "identity": "cwkfnyqmm/page-5d5596580fe1e5d68ca2208b"
+    },
+    {
+      "host": "bjszbd.cn",
+      "url": "https://bjszbd.cn/",
+      "label": "火箭加速器",
+      "apex": "bjszbd.cn",
+      "kind": null,
+      "identity": "s5fc3x/page-66b63019a4440f9d1e9809cf"
+    },
+    {
+      "host": "cetcf.cn",
+      "url": "https://cetcf.cn/",
+      "label": "火箭加速器",
+      "apex": "cetcf.cn",
+      "kind": null,
+      "identity": "uccstkhy/page-e034a41942faa0aade3bfb2a"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "34818d8fd0bf077422e9c33003ac7983642b52a28a83c9363ee38150ea83f1fa",
+    "sitemap.xml": "477dce722be55f8c6c6cd6dbe073fe01196ab7ca7afd6e2112d9f54674a76f75",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "da3ad8316a15a3605e86ad5ab482362e5c1b6567ddd4c06fdf801445a0e9183e",
+    "robots.txt": "6c2b92795a01522a9d38cb31836369f8d8d4fdc11b4d1f1222abc3d0fbda612c",
+    "19563be1f6d18c9e1e6ff56a1e965778.txt": "5b969ff5c4430d9a8b3717927d2cfc035cb009010ed54b0e4966b04bd7f1a8d7"
+  },
+  "revision": "10c7aaba26133dbed76817aeea9f80645b99d70fdcc8b482ca9d2f065676b6e6"
+}
